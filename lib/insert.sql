@@ -22,10 +22,3 @@ INSERT INTO bears (name, age, gender, color, temperament, alive)
 INSERT INTO bears (name, age, gender, color, temperament, alive)
     VALUES (NULL, 2, "male", "black", "angry", 0); 
     
-  id INTEGER PRIMARY KEY,
-  name TEXT,
-  age INTEGER,
-  gender TEXT,
-  color TEXT,
-  temperament TEXT,
-  alive BOOLEAN
