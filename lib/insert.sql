@@ -1,26 +1,26 @@
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-    VALUES ("Mr. Chocolate", 5, male,
+    VALUES ("Mr. Chocolate", 5, "male", "brown", "happy"
     
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-    VALUES ("Rowdy", 10,  
+    VALUES ("Rowdy", 10, "female", "yellow", "moody"  
     
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-    VALUES ("Tabitha", 1, 
+    VALUES ("Tabitha", 1,"female", "black", "sad"
     
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-    VALUES ("Sergeant Brown", 1, 
+    VALUES ("Sergeant Brown", 1, "male", "brown", "angry"
     
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-    VALUES ("Melissa", 3,     
+    VALUES ("Melissa", 3,"female", "yellow", "happy"      
     
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-    VALUES ("Grinch", 2,    
+    VALUES ("Grinch", 2, "male","brown",    
 
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-    VALUES ("Wendy", 8, 
+    VALUES ("Wendy", 8,"female", "yellow"  
     
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-    VALUES (NULL, 2,   
+    VALUES (NULL, 2, "male", "black",   
     
   id INTEGER PRIMARY KEY,
   name TEXT,
