@@ -1,7 +1,7 @@
 INSERT INTO bears (name, grade, gpa, tardies)
     VALUES ("
     
-    n
+    name, age, gender, color, temperament, alive
     
     
   id INTEGER PRIMARY KEY,
