@@ -1,7 +1,23 @@
-INSERT INTO bears (name, grade, gpa, tardies)
+INSERT INTO bears (name, age, gender, color, temperament, alive)
     VALUES ("
     
-    name, age, gender, color, temperament, alive
+INSERT INTO bears (name, age, gender, color, temperament, alive)
+    VALUES ("
+    
+INSERT INTO bears (name, age, gender, color, temperament, alive)
+    VALUES ("
+    
+INSERT INTO bears (name, age, gender, color, temperament, alive)
+    VALUES ("   
+    
+INSERT INTO bears (name, age, gender, color, temperament, alive)
+    VALUES ("    
+    
+INSERT INTO bears (name, age, gender, color, temperament, alive)
+    VALUES ("    
+
+INSERT INTO bears (name, age, gender, color, temperament, alive)
+    VALUES ("
     
     
   id INTEGER PRIMARY KEY,
