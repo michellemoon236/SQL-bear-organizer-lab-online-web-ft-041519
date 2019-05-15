@@ -1,5 +1,5 @@
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-    VALUES ("
+    VALUES ("Mr. Chocolate, 
     
 INSERT INTO bears (name, age, gender, color, temperament, alive)
     VALUES ("
@@ -19,7 +19,8 @@ INSERT INTO bears (name, age, gender, color, temperament, alive)
 INSERT INTO bears (name, age, gender, color, temperament, alive)
     VALUES ("
     
-    
+INSERT INTO bears (name, age, gender, color, temperament, alive)
+    VALUES (NULL,     
   id INTEGER PRIMARY KEY,
   name TEXT,
   age INTEGER,
